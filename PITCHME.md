@@ -22,12 +22,12 @@ Welcome to the Hackathon
 
 * Each category of coupon will have different costs and commitments
 
-        | Coupon | Cost | Must be present in round # |
-        |--------|------|----------------------------|
-        | Green  | 10   | 1-7                        |
-        | Yellow | 20   | 4-7                        |
-        | Pink   | 30   | 6-7                        |
+    | Coupon | Cost | Must be present in round # |
+    |--------|------|----------------------------|
+    | Green  | 10   | 1-7                        |
+    | Yellow | 20   | 4-7                        |
+    | Pink   | 30   | 6-7                        |
 
 ---
 
-# @size[3.5em](@color[green](Green Era))
+# @size[2em](@color[green](Green Era))
