@@ -28,7 +28,7 @@ Welcome to the Hackathon
         | Yellow | 20   | 4-7                        |
         | Pink   | 30   | 6-7                        |
 
-* If any group can't deliver presentation in any commitments, they'll be fine 20 for each commitment
+* Any group who can't deliver presentation in any commitments, they'll be fine 20 each round
 * For group that use no coupons will be fine 100.
 
 ---
